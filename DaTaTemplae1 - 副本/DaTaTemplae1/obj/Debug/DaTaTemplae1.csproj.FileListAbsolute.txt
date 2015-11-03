@@ -1,0 +1,48 @@
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\bin\Debug\DaTaTemplae1.exe.config
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\DaTaTemplae1.csprojResolveAssemblyReference.cache
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\App.g.cs
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\DaTaTemplae1_MarkupCompile.cache
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\bin\Debug\DaTaTemplae1.exe
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\bin\Debug\DaTaTemplae1.pdb
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\MainWindow.baml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\MainWindow.g.cs
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\DaTaTemplae1.g.resources
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\DaTaTemplae1.Properties.Resources.resources
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\DaTaTemplae1.csproj.GenerateResource.Cache
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\DaTaTemplae1.exe
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\DaTaTemplae1.pdb
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\DaTaTemplae1_MarkupCompile.lref
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\bin\Debug\DaTaTemplae1.exe.config
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\DaTaTemplae1.exe
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\DaTaTemplae1.pdb
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\bin\Debug\DaTaTemplae1.exe
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\bin\Debug\DaTaTemplae1.pdb
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\DaTaTemplae1.csprojResolveAssemblyReference.cache
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\MainWindow.g.cs
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\App.g.cs
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\DaTaTemplae1_MarkupCompile.cache
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\DaTaTemplae1_MarkupCompile.lref
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\MainWindow.baml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\DaTaTemplae1.g.resources
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\DaTaTemplae1.Properties.Resources.resources
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\DaTaTemplae1.csproj.GenerateResource.Cache
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\Mokuai.baml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\Mokuai.g.cs
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\Netstat.baml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\Netstat.g.cs
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\bin\Debug\PacketDotNet.dll
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\bin\Debug\SharpPcap.dll
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\bin\Debug\PacketDotNet.xml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\bin\Debug\SharpPcap.xml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\Service.baml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1\DaTaTemplae1\obj\Debug\Service.g.cs
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\bin\Debug\PacketDotNet.dll
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\bin\Debug\SharpPcap.dll
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\bin\Debug\PacketDotNet.xml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\bin\Debug\SharpPcap.xml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\Mokuai.baml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\Netstat.baml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\Service.baml
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\Mokuai.g.cs
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\Netstat.g.cs
+G:\备份\VS2012源码\wpf srqc\DaTaTemplae1 - 副本\DaTaTemplae1\obj\Debug\Service.g.cs
